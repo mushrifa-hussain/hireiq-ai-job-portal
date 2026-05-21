@@ -1,0 +1,242 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --color-brand-50: #f5f3ff;
+  --color-brand-100: #ede9fe;
+  --color-brand-200: #ddd6fe;
+  --color-brand-300: #c4b5fd;
+  --color-brand-400: #a78bfa;
+  --color-brand-500: #8b5cf6;
+  --color-brand-600: #7c3aed;
+  --color-brand-700: #6d28d9;
+  --color-brand-800: #5b21b6;
+  --color-brand-900: #4c1d95;
+
+  --animate-fade-up: fade-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-fade-in: fade-in 0.4s ease-out both;
+}
+
+@keyframes fade-up {
+  0% { opacity: 0; transform: translateY(16px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+@keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes chatDot {
+  0%, 60%, 100% { transform: translateY(0); opacity: 0.4; }
+  30% { transform: translateY(-3px); opacity: 1; }
+}
+
+html, body, #root { height: 100%; }
+
+html {
+  color-scheme: light;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: #f0f0f8;
+  color: #111827;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+  letter-spacing: -0.011em;
+}
+
+/* === Buttons === */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.625rem 1.15rem;
+  border-radius: 0.625rem;
+  font-weight: 500;
+  font-size: 0.9rem;
+  letter-spacing: -0.005em;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, transform 0.05s ease;
+  white-space: nowrap;
+  font-family: inherit;
+}
+
+.btn:disabled { opacity: 0.55; cursor: not-allowed; }
+.btn:active:not(:disabled) { transform: translateY(0.5px); }
+
+.btn-primary {
+  background: #7c3aed;
+  color: #fff;
+  box-shadow: 0 1px 2px rgba(124, 58, 237, 0.15);
+}
+.btn-primary:hover:not(:disabled) { background: #6d28d9; }
+
+.btn-ghost {
+  background: #ffffff;
+  color: #111827;
+  border-color: #e5e7eb;
+}
+.btn-ghost:hover:not(:disabled) {
+  background: #f9fafb;
+  border-color: #d1d5db;
+}
+
+.btn-outline {
+  background: transparent;
+  color: #7c3aed;
+  border-color: #ddd6fe;
+}
+.btn-outline:hover:not(:disabled) {
+  background: #faf5ff;
+  border-color: #c4b5fd;
+}
+
+.btn-sm { padding: 0.45rem 0.85rem; font-size: 0.825rem; border-radius: 0.5rem; }
+.btn-lg { padding: 0.8rem 1.6rem; font-size: 0.975rem; border-radius: 0.75rem; }
+
+/* === Inputs === */
+@layer components {
+  .input, .textarea, .select {
+    width: 100%;
+    background: #ffffff;
+    color: #111827;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.625rem;
+    padding: 0.65rem 0.9rem;
+    outline: none;
+    transition: border-color 0.15s, box-shadow 0.15s;
+    font-size: 0.925rem;
+    font-family: inherit;
+  }
+  .input:hover, .textarea:hover, .select:hover { border-color: #d1d5db; }
+  .input:focus, .textarea:focus, .select:focus {
+    border-color: #7c3aed;
+    box-shadow: 0 0 0 4px rgba(124, 58, 237, 0.10);
+  }
+  .input::placeholder, .textarea::placeholder { color: #9ca3af; }
+}
+
+.textarea { resize: vertical; min-height: 120px; line-height: 1.55; }
+
+.select {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%236b7280' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.85rem center;
+  padding-right: 2.5rem;
+}
+
+/* === Cards === */
+.card {
+  background: #ffffff;
+  border: 1px solid #eef0f3;
+  border-radius: 0.875rem;
+  box-shadow: 0 1px 2px rgba(124, 58, 237, 0.05);
+  transition: border-color 0.15s, box-shadow 0.2s, transform 0.2s;
+}
+.card-hover:hover {
+  border-color: #ddd6fe;
+  box-shadow: 0 12px 28px -14px rgba(124, 58, 237, 0.20), 0 2px 6px -2px rgba(124, 58, 237, 0.08);
+  transform: translateY(-2px);
+}
+
+/* === Pills, badges === */
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  background: #f3f4f6;
+  color: #4b5563;
+  border: 1px solid #e5e7eb;
+}
+
+.pill-brand {
+  background: #f5f3ff;
+  color: #6d28d9;
+  border-color: #ede9fe;
+}
+
+.pill-emerald {
+  background: #ecfdf5;
+  color: #047857;
+  border-color: #d1fae5;
+}
+
+.pill-amber {
+  background: #fffbeb;
+  color: #b45309;
+  border-color: #fde68a;
+}
+
+.pill-rose {
+  background: #fff1f2;
+  color: #be123c;
+  border-color: #fecdd3;
+}
+
+/* === File input === */
+.file-input {
+  display: block;
+  width: 100%;
+  font-size: 0.9rem;
+  color: #4b5563;
+  cursor: pointer;
+}
+.file-input::file-selector-button {
+  margin-right: 0.85rem;
+  padding: 0.5rem 0.95rem;
+  border-radius: 0.5rem;
+  border: 1px solid #e5e7eb;
+  font-weight: 500;
+  background: #ffffff;
+  color: #111827;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s, border-color 0.15s;
+}
+.file-input::file-selector-button:hover {
+  background: #f9fafb;
+  border-color: #d1d5db;
+}
+
+/* === Misc === */
+.divider { height: 1px; background: #eef0f3; }
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: #ffffff; }
+::-webkit-scrollbar-thumb { background: #e5e7eb; border-radius: 6px; border: 2px solid #ffffff; }
+::-webkit-scrollbar-thumb:hover { background: #d1d5db; }
+
+::selection { background: rgba(124, 58, 237, 0.18); color: #1f2937; }
+
+.text-balance { text-wrap: balance; }
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Subtle dotted background pattern (used sparingly on hero) */
+.bg-dots {
+  background-image: radial-gradient(circle, #e5e7eb 1px, transparent 1px);
+  background-size: 24px 24px;
+}

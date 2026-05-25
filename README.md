@@ -52,7 +52,7 @@ HireIQ is a full-stack AI-powered job portal designed to streamline the hiring p
 ## Sign Up Page
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f412b78e-83b8-4221-9410-89c62f03537c" width="850">
+  <img width="709" height="398" alt="image" src="https://github.com/user-attachments/assets/e7ec6bf0-2d45-4814-af81-8466009ce6fa" />
 </p>
 
 ## Job Seeker Dashboard

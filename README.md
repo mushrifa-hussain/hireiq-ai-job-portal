@@ -46,31 +46,31 @@ HireIQ is a full-stack AI-powered job portal designed to streamline the hiring p
 ## Landing Page
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="850">
+  <img width="850" src="https://github.com/user-attachments/assets/bc928684-f363-48f5-99f1-c9895757b3bb" />
 </p>
 
 ## Sign Up Page
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="850">
+  <img src="https://github.com/user-attachments/assets/0203f3b0-3ede-4d6d-94d4-4f50e316f3d5" width="850">
 </p>
 
 ## Job Seeker Dashboard
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="850">
+  <img src="https://github.com/user-attachments/assets/a1865f95-7d93-4d2c-adf5-65c146adcc2c" width="850">
 </p>
 
 ## Browse Jobs and Smart Job Recommendation
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="850">
+  <img src="https://github.com/user-attachments/assets/794054fe-5b62-456b-bcf3-be6865da024f" width="850">
 </p>
 
 ## Resume Analysis
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ad258311-83cb-4ef1-9148-e837c34e649f" width="850">
+  <img src="https://github.com/user-attachments/assets/a5d935da-8607-4fbb-9863-6d1b81cb1edb" width="850">
 </p>
 
 ## Interview Preparation Page
@@ -88,7 +88,7 @@ HireIQ is a full-stack AI-powered job portal designed to streamline the hiring p
 ## AI Chatbot
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="850">
+  <img src="https://github.com/user-attachments/assets/07f4a648-ef93-48e7-939f-b6fb9fa2d563" width="850">
 </p>
 
 ---

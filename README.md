@@ -49,31 +49,31 @@ HireIQ is a full-stack AI-powered job portal designed to streamline the hiring p
 
 ## Sign Up Page
 
-<img width="1030" height="398" alt="image" src="https://github.com/user-attachments/assets/feb0ba44-bdd6-4266-9185-4822dcf2a16a" />
+<img width="709" height="398" alt="image" src="https://github.com/user-attachments/assets/f412b78e-83b8-4221-9410-89c62f03537c" />
 
 ## Job Seeker Dashboard
 
-<img width="1030 height="382" alt="image" src="https://github.com/user-attachments/assets/d2ea2cec-0867-44e9-932a-32e957bfbfa9" />
+<img width="1678" height="398" alt="image" src="https://github.com/user-attachments/assets/88ff376b-0bfe-45b4-9307-fd0a26c46c40" />
 
 ## Browse Jobs and Smart Job Recommendation
 
-<img width="1030" height="512" alt="image" src="https://github.com/user-attachments/assets/bf1ece61-1db9-46fa-93dc-75b8e9f2d472" />
+<img width="940" height="512" alt="image" src="https://github.com/user-attachments/assets/fb11037a-ed88-4ce3-bb5d-faff0d51f0b7" />
 
 ## Resume Analysis
 
-<img width="651" height="367" alt="image" src="https://github.com/user-attachments/assets/724ac2b5-4edf-4723-9c62-7cd952c46355" />
+<img width="1993" height="371" alt="image" src="https://github.com/user-attachments/assets/09a323a0-6495-403d-9d36-a63420c63c41" />
 
 ## Interview Preparation Page
 
-<img width="1030" height="522" alt="image" src="https://github.com/user-attachments/assets/a324c9d8-6f22-482d-a3c4-ea0b97834af9" />
+<img width="940" height="522" alt="image" src="https://github.com/user-attachments/assets/e108292c-93b0-4dae-a2f5-5962b1408bff" />
 
 ## Recruiter Dashboard
 
-<img width="1030" height="415" alt="image" src="https://github.com/user-attachments/assets/a62bb3f7-1a33-407b-a533-ebe82ec5f0fe" />
+<img width="808" height="415" alt="image" src="https://github.com/user-attachments/assets/1430ac15-9824-4885-bd87-d2c9a113a3db" />
 
 ## AI Chatbot
 
-<img width="1030" height="489" alt="image" src="https://github.com/user-attachments/assets/f5cfccb4-c68b-4acd-931a-d6405118b617" />
+<img width="1606" height="987" alt="image" src="https://github.com/user-attachments/assets/d664ba10-e998-4f19-a801-e866b5858b63" />
 
 ---
 

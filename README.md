@@ -1,4 +1,4 @@
-<img width="940" height="522" alt="image" src="https://github.com/user-attachments/assets/4616a79a-3060-44cb-8db3-87439c1de2d4" /># HireIQ – AI-Powered Job Portal 🚀
+# HireIQ – AI-Powered Job Portal 🚀
 
 HireIQ is a full-stack AI-powered job portal designed to streamline the hiring process for both job seekers and recruiters. The platform combines modern web development with intelligent resume analysis to provide smarter job matching and recruitment workflows.
 
@@ -45,19 +45,19 @@ HireIQ is a full-stack AI-powered job portal designed to streamline the hiring p
 
 ## Landing Page
 
-<img width="708" height="579" alt="image" src="https://github.com/user-attachments/assets/ad04b124-0584-4028-a5b4-5d30801addb0" />
+<img width="1030" height="579" alt="image" src="https://github.com/user-attachments/assets/8a5c7348-2939-49f9-8d42-667fbeb66c3b" />
 
 ## Sign Up Page
 
-<img width="709" height="398" alt="image" src="https://github.com/user-attachments/assets/feb0ba44-bdd6-4266-9185-4822dcf2a16a" />
+<img width="1030" height="398" alt="image" src="https://github.com/user-attachments/assets/feb0ba44-bdd6-4266-9185-4822dcf2a16a" />
 
 ## Job Seeker Dashboard
 
-<img width="708" height="382" alt="image" src="https://github.com/user-attachments/assets/d2ea2cec-0867-44e9-932a-32e957bfbfa9" />
+<img width="1030 height="382" alt="image" src="https://github.com/user-attachments/assets/d2ea2cec-0867-44e9-932a-32e957bfbfa9" />
 
 ## Browse Jobs and Smart Job Recommendation
 
-<img width="708" height="512" alt="image" src="https://github.com/user-attachments/assets/bf1ece61-1db9-46fa-93dc-75b8e9f2d472" />
+<img width="1030" height="512" alt="image" src="https://github.com/user-attachments/assets/bf1ece61-1db9-46fa-93dc-75b8e9f2d472" />
 
 ## Resume Analysis
 
@@ -65,15 +65,15 @@ HireIQ is a full-stack AI-powered job portal designed to streamline the hiring p
 
 ## Interview Preparation Page
 
-<img width="708" height="522" alt="image" src="https://github.com/user-attachments/assets/a324c9d8-6f22-482d-a3c4-ea0b97834af9" />
+<img width="1030" height="522" alt="image" src="https://github.com/user-attachments/assets/a324c9d8-6f22-482d-a3c4-ea0b97834af9" />
 
 ## Recruiter Dashboard
 
-<img width="708" height="415" alt="image" src="https://github.com/user-attachments/assets/a62bb3f7-1a33-407b-a533-ebe82ec5f0fe" />
+<img width="1030" height="415" alt="image" src="https://github.com/user-attachments/assets/a62bb3f7-1a33-407b-a533-ebe82ec5f0fe" />
 
 ## AI Chatbot
 
-<img width="708" height="489" alt="image" src="https://github.com/user-attachments/assets/f5cfccb4-c68b-4acd-931a-d6405118b617" />
+<img width="1030" height="489" alt="image" src="https://github.com/user-attachments/assets/f5cfccb4-c68b-4acd-931a-d6405118b617" />
 
 ---
 

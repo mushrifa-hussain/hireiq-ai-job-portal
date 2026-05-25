@@ -76,19 +76,19 @@ HireIQ is a full-stack AI-powered job portal designed to streamline the hiring p
 ## Interview Preparation Page
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="850">
+  <img src="https://github.com/user-attachments/assets/859fab03-1431-4fcf-a2c5-7ceaafaaf535" width="850">
 </p>
 
 ## Recruiter Dashboard
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="850">
+  <img src="https://github.com/user-attachments/assets/7899294f-2449-4f23-bf5d-8e3ee28dc335" width="850">
 </p>
 
 ## AI Chatbot
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07f4a648-ef93-48e7-939f-b6fb9fa2d563" width="850">
+  <img src="https://github.com/user-attachments/assets/aeee191e-2bbe-4ec5-a4f7-62df6b5da8fe" width="850">
 </p>
 
 ---

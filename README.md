@@ -46,49 +46,49 @@ HireIQ is a full-stack AI-powered job portal designed to streamline the hiring p
 ## Landing Page
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a5c7348-2939-49f9-8d42-667fbeb66c3b" width="850">
+  <img src="YOUR_IMAGE_LINK" width="850">
 </p>
 
 ## Sign Up Page
 
 <p align="center">
-  <img width="709" height="398" alt="image" src="https://github.com/user-attachments/assets/e7ec6bf0-2d45-4814-af81-8466009ce6fa" />
+  <img src="YOUR_IMAGE_LINK" width="850">
 </p>
 
 ## Job Seeker Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88ff376b-0bfe-45b4-9307-fd0a26c46c40" width="850">
+  <img src="YOUR_IMAGE_LINK" width="850">
 </p>
 
 ## Browse Jobs and Smart Job Recommendation
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb11037a-ed88-4ce3-bb5d-faff0d51f0b7" width="850">
+  <img src="YOUR_IMAGE_LINK" width="850">
 </p>
 
 ## Resume Analysis
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/09a323a0-6495-403d-9d36-a63420c63c41" width="850">
+  <img src="https://github.com/user-attachments/assets/ad258311-83cb-4ef1-9148-e837c34e649f" width="850">
 </p>
 
 ## Interview Preparation Page
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e108292c-93b0-4dae-a2f5-5962b1408bff" width="850">
+  <img src="YOUR_IMAGE_LINK" width="850">
 </p>
 
 ## Recruiter Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1430ac15-9824-4885-bd87-d2c9a113a3db" width="850">
+  <img src="YOUR_IMAGE_LINK" width="850">
 </p>
 
 ## AI Chatbot
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d664ba10-e998-4f19-a801-e866b5858b63" width="850">
+  <img src="YOUR_IMAGE_LINK" width="850">
 </p>
 
 ---

@@ -45,35 +45,51 @@ HireIQ is a full-stack AI-powered job portal designed to streamline the hiring p
 
 ## Landing Page
 
-<img width="1030" height="579" alt="image" src="https://github.com/user-attachments/assets/8a5c7348-2939-49f9-8d42-667fbeb66c3b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a5c7348-2939-49f9-8d42-667fbeb66c3b" width="850">
+</p>
 
 ## Sign Up Page
 
-<img width="709" height="398" alt="image" src="https://github.com/user-attachments/assets/f412b78e-83b8-4221-9410-89c62f03537c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f412b78e-83b8-4221-9410-89c62f03537c" width="850">
+</p>
 
 ## Job Seeker Dashboard
 
-<img width="1678" height="398" alt="image" src="https://github.com/user-attachments/assets/88ff376b-0bfe-45b4-9307-fd0a26c46c40" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88ff376b-0bfe-45b4-9307-fd0a26c46c40" width="850">
+</p>
 
 ## Browse Jobs and Smart Job Recommendation
 
-<img width="940" height="512" alt="image" src="https://github.com/user-attachments/assets/fb11037a-ed88-4ce3-bb5d-faff0d51f0b7" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb11037a-ed88-4ce3-bb5d-faff0d51f0b7" width="850">
+</p>
 
 ## Resume Analysis
 
-<img width="1993" height="371" alt="image" src="https://github.com/user-attachments/assets/09a323a0-6495-403d-9d36-a63420c63c41" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09a323a0-6495-403d-9d36-a63420c63c41" width="850">
+</p>
 
 ## Interview Preparation Page
 
-<img width="940" height="522" alt="image" src="https://github.com/user-attachments/assets/e108292c-93b0-4dae-a2f5-5962b1408bff" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e108292c-93b0-4dae-a2f5-5962b1408bff" width="850">
+</p>
 
 ## Recruiter Dashboard
 
-<img width="808" height="415" alt="image" src="https://github.com/user-attachments/assets/1430ac15-9824-4885-bd87-d2c9a113a3db" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1430ac15-9824-4885-bd87-d2c9a113a3db" width="850">
+</p>
 
 ## AI Chatbot
 
-<img width="1606" height="987" alt="image" src="https://github.com/user-attachments/assets/d664ba10-e998-4f19-a801-e866b5858b63" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d664ba10-e998-4f19-a801-e866b5858b63" width="850">
+</p>
 
 ---
 
